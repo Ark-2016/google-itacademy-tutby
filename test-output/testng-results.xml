@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TrippleTestSuite" duration-ms="71861" started-at="2017-01-05T21:53:57Z" finished-at="2017-01-05T21:55:09Z">
+    <groups>
+    </groups>
+    <test name="Google pages testing" duration-ms="12851" started-at="2017-01-05T21:53:57Z" finished-at="2017-01-05T21:54:10Z">
+      <class name="by.htp.practice.pages.GooglePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:by.htp.practice.pages.GooglePageTest@546a03af]" name="setUp" is-config="true" duration-ms="6156" started-at="2017-01-06T00:53:57Z" description="start browser" finished-at="2017-01-06T00:54:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testSearchPage()[pri:0, instance:by.htp.practice.pages.GooglePageTest@546a03af]" name="testSearchPage" duration-ms="3219" started-at="2017-01-06T00:54:03Z" description="verify Search page title" finished-at="2017-01-06T00:54:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchPage -->
+        <test-method status="PASS" signature="testResultPage()[pri:0, instance:by.htp.practice.pages.GooglePageTest@546a03af]" name="testResultPage" duration-ms="2624" started-at="2017-01-06T00:54:06Z" description="submit search and verify Result page title" finished-at="2017-01-06T00:54:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResultPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:by.htp.practice.pages.GooglePageTest@546a03af]" name="tearDown" is-config="true" duration-ms="833" started-at="2017-01-06T00:54:09Z" description="stop browser" finished-at="2017-01-06T00:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- by.htp.practice.pages.GooglePageTest -->
+    </test> <!-- Google pages testing -->
+    <test name="IT-Academy pages testing" duration-ms="25988" started-at="2017-01-05T21:54:10Z" finished-at="2017-01-05T21:54:36Z">
+      <class name="by.htp.practice.pages.ITAcademyPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:by.htp.practice.pages.ITAcademyPageTest@71c7db30]" name="setUp" is-config="true" duration-ms="4529" started-at="2017-01-06T00:54:10Z" description="start browser" finished-at="2017-01-06T00:54:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testHomePage()[pri:0, instance:by.htp.practice.pages.ITAcademyPageTest@71c7db30]" name="testHomePage" duration-ms="10044" started-at="2017-01-06T00:54:14Z" description="verify Home page title" finished-at="2017-01-06T00:54:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePage -->
+        <test-method status="PASS" signature="testWhoToLearnMenu()[pri:0, instance:by.htp.practice.pages.ITAcademyPageTest@71c7db30]" name="testWhoToLearnMenu" duration-ms="3458" started-at="2017-01-06T00:54:24Z" description="count number of WhoToLearn menu items" finished-at="2017-01-06T00:54:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWhoToLearnMenu -->
+        <test-method status="PASS" signature="testCareerSubmenu()[pri:0, instance:by.htp.practice.pages.ITAcademyPageTest@71c7db30]" name="testCareerSubmenu" duration-ms="3034" started-at="2017-01-06T00:54:28Z" description="count number of Career submenu items" finished-at="2017-01-06T00:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCareerSubmenu -->
+        <test-method status="PASS" signature="testMarketingPage()[pri:0, instance:by.htp.practice.pages.ITAcademyPageTest@71c7db30]" name="testMarketingPage" duration-ms="4440" started-at="2017-01-06T00:54:31Z" description="verify Marketing page title" finished-at="2017-01-06T00:54:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMarketingPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:by.htp.practice.pages.ITAcademyPageTest@71c7db30]" name="tearDown" is-config="true" duration-ms="480" started-at="2017-01-06T00:54:35Z" description="stop browser" finished-at="2017-01-06T00:54:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- by.htp.practice.pages.ITAcademyPageTest -->
+    </test> <!-- IT-Academy pages testing -->
+    <test name="TutBy pages testing" duration-ms="32984" started-at="2017-01-05T21:54:36Z" finished-at="2017-01-05T21:55:09Z">
+      <class name="by.htp.practice.pages.TutByPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:by.htp.practice.pages.TutByPageTest@66d33a]" name="setUp" is-config="true" duration-ms="5738" started-at="2017-01-06T00:54:36Z" finished-at="2017-01-06T00:54:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testHomePage()[pri:0, instance:by.htp.practice.pages.TutByPageTest@66d33a]" name="testHomePage" duration-ms="17660" started-at="2017-01-06T00:54:42Z" description="verify the home page title and read the main news title" finished-at="2017-01-06T00:54:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePage -->
+        <test-method status="PASS" signature="testMainNewsPage()[pri:0, instance:by.htp.practice.pages.TutByPageTest@66d33a]" name="testMainNewsPage" duration-ms="9069" started-at="2017-01-06T00:54:59Z" description="open the main news article and count the number of paragraphs" finished-at="2017-01-06T00:55:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMainNewsPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:by.htp.practice.pages.TutByPageTest@66d33a]" name="tearDown" is-config="true" duration-ms="516" started-at="2017-01-06T00:55:08Z" finished-at="2017-01-06T00:55:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- by.htp.practice.pages.TutByPageTest -->
+    </test> <!-- TutBy pages testing -->
+  </suite> <!-- TrippleTestSuite -->
+</testng-results>

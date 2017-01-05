@@ -1,0 +1,33 @@
+[INFO ] 2017-01-06 00:54:03.598 [main] DriverSingleton - Browser started
+[INFO ] 2017-01-06 00:54:06.834 [main] GooglePage - Search page open
+[INFO ] 2017-01-06 00:54:06.850 [main] GooglePage - Search page title got
+[INFO ] 2017-01-06 00:54:08.219 [main] GooglePage - Search page open
+[INFO ] 2017-01-06 00:54:08.392 [main] GooglePage - search request submitted
+[INFO ] 2017-01-06 00:54:09.467 [main] GooglePage - Result page open
+[INFO ] 2017-01-06 00:54:09.475 [main] GooglePage - Result page title got
+[INFO ] 2017-01-06 00:54:10.309 [main] DriverSingleton - Browser stopped
+[INFO ] 2017-01-06 00:54:14.865 [main] DriverSingleton - Browser started
+[INFO ] 2017-01-06 00:54:24.889 [main] ITAcademyPage - Home page open
+[INFO ] 2017-01-06 00:54:24.914 [main] ITAcademyPage - Home page title got
+[INFO ] 2017-01-06 00:54:28.330 [main] ITAcademyPage - Home page open
+[INFO ] 2017-01-06 00:54:28.374 [main] ITAcademyPage - С чего начать обучение?
+[INFO ] 2017-01-06 00:54:28.374 [main] ITAcademyPage - Карьера в ИТ
+[INFO ] 2017-01-06 00:54:28.374 [main] ITAcademyPage - WhoToLearnMenu items got
+[INFO ] 2017-01-06 00:54:31.244 [main] ITAcademyPage - Home page open
+[INFO ] 2017-01-06 00:54:31.409 [main] ITAcademyPage - Карьера JAVA программиста
+[INFO ] 2017-01-06 00:54:31.409 [main] ITAcademyPage - Карьера бизнес-аналитика
+[INFO ] 2017-01-06 00:54:31.409 [main] ITAcademyPage - Карьера программиста
+[INFO ] 2017-01-06 00:54:31.409 [main] ITAcademyPage - Карьера тестировщика
+[INFO ] 2017-01-06 00:54:31.409 [main] ITAcademyPage - CareerSubmenu items got
+[INFO ] 2017-01-06 00:54:34.398 [main] ITAcademyPage - Home page open
+[INFO ] 2017-01-06 00:54:35.841 [main] ITAcademyPage - Marketing page open
+[INFO ] 2017-01-06 00:54:35.850 [main] ITAcademyPage - Marketing page title got
+[INFO ] 2017-01-06 00:54:36.330 [main] DriverSingleton - Browser stopped
+[INFO ] 2017-01-06 00:54:42.073 [main] DriverSingleton - Browser started
+[INFO ] 2017-01-06 00:54:59.691 [main] TutByPage - page open
+[INFO ] 2017-01-06 00:54:59.703 [main] TutByPage - Home page title verified
+[INFO ] 2017-01-06 00:54:59.735 [main] TutByPage - Main news title: Трагедия в Борисове. Оборудование для проверки СО газовщикам выдали только после гибели 6 человек  94
+[INFO ] 2017-01-06 00:55:06.686 [main] TutByPage - page open
+[INFO ] 2017-01-06 00:55:08.769 [main] TutByPage - Main news page open
+[INFO ] 2017-01-06 00:55:08.804 [main] TutByPage - Number of paragraphs: 32
+[INFO ] 2017-01-06 00:55:09.320 [main] DriverSingleton - Browser stopped

@@ -1,0 +1,41 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="TrippleTestSuite" verbose="0">
+
+    <test name="Google pages testing">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="by.htp.practice.pages.GooglePageTest">
+                <methods>
+                    <include name="testSearchPage"/>
+                    <include name="testResultPage"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="IT-Academy pages testing">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="by.htp.practice.pages.ITAcademyPageTest">
+                <methods>
+                    <include name="testHomePage"/>
+                    <include name="testWhoToLearnMenu"/>
+                    <include name="testCareerSubmenu"/>
+                    <include name="testMarketingPage"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="TutBy pages testing">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="by.htp.practice.pages.TutByPageTest">
+                <methods>
+                    <include name="testHomePage"/>
+                    <include name="testMainNewsPage"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
+
